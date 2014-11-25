@@ -21,6 +21,8 @@ http://pegjs.majda.cz/
 
 https://www.khanacademy.org/computer-programming/game-of-life/879123336
 
+https://www.khanacademy.org/computer-programming/turing-machine/938201372
+
 http://www.google.com/doodles/alan-turings-100th-birthday
 
 https://github.com/AzuraMeta/TuringMachine
