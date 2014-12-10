@@ -49,6 +49,16 @@ http://compsoc.dur.ac.uk/whitespace/
 
 http://www.dangermouse.net/esoteric/ook.html
 
+----
+
+https://enjalbert.users.greyc.fr/cours/Langages/TD/TD1_Corrige%CC%81.pdf
+
+http://www2.lifl.fr/~mailliet/Compil/TD/Exo2.pdf
+
+http://pageperso.lif.univ-mrs.fr/~frederic.olive/Materiel/langagesL2/td.pdf
+
+
+
 
 
 
