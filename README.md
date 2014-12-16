@@ -57,6 +57,14 @@ http://www2.lifl.fr/~mailliet/Compil/TD/Exo2.pdf
 
 http://pageperso.lif.univ-mrs.fr/~frederic.olive/Materiel/langagesL2/td.pdf
 
+----
+
+https://www.youtube.com/watch?v=xHVmwx0fCbI
+
+https://www.youtube.com/watch?v=GutFwGmajHA
+
+
+
 
 
 
