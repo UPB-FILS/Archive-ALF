@@ -25,8 +25,8 @@ Groupe 1231F
 15. Procaru Andrei - https://github.com/AndreiCristianProcaru/Devoirs_ALF
 16. Radutu Anca - https://github.com/ancaradutu/ALF-
 17. Trandafir Andrada - https://github.com/andradatrandafir
+18. Urzicaru Cristina - https://github.com/urzicarucristina/Devoirs_ALF
 18. Tudor Ionela Adelina - 
-19. Urzicaru Cristina - https://github.com/urzicarucristina/Devoirs_ALF
-20. Mabrouk Mohamed Walid - https://github.com/Xazerty/Devoirs-ALF-
+19. Mabrouk Mohamed Walid - https://github.com/Xazerty/Devoirs-ALF-
 
 
