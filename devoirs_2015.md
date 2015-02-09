@@ -3,7 +3,21 @@ Liens devoirs ALF
 
 Groupe 1230F
 
-1) Niţulescu Gabriela: https://github.com/NGabi 
+1. Alecu Gabriel Cristian https://github.com/AzuraMeta/ALF
+2. Cucu Andreea Mădălina https://github.com/cucuandreea/ALF
+3. Dridi Zied https://github.com/zieddridi/ALF-DEVOIRS/tree/master
+4. Glodeanu Georgiana https://github.com/ggcod/Devoir-ALF
+5. Grecu Mioara Ionela https://github.com/Mioara/Devoir.git
+6. Krouna Nader https://github.com/nader1993/ALF
+7. Mabrouk Mohamed Walid 
+8. Manai Saif https://github.com/saifmanai/Alf
+9. Niţu Suzana Melania https://github.com/MelaniaNitu/ALF
+10. Niţulescu Gabriela https://github.com/NGabi
+11. Onete Bogdan Gabriel  https://github.com/OneteBogdanGabriel/ALF
+12. Spoială Viorel Cristian https://github.com/borguss2014/ALF
+13. Stănică Iulia Cristina https://github.com/iuliastanica/Alf_devoirs
+14. Vladu Ionuţ Adrian https://github.com/iavladu/ALF
+15. Vlăsceanu Andreea Sorina https://github.com/VlasceanuSorina
 
 
 Groupe 1231F
