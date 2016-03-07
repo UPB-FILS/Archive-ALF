@@ -27,6 +27,16 @@ https://www.khanacademy.org/computer-programming/turing-machine/938201372
 
 http://www.google.com/doodles/alan-turings-100th-birthday
 
+
+Vous pouvez trouver plusieurs alogorithmes implementes en plusieurs langages de programmation pour faire la compraison:
+
+http://rosettacode.org/wiki/Rosetta_Code -> http://rosettacode.org/wiki/Category:Programming_Tasks -> http://rosettacode.org/wiki/Priority_queue  
+ou per langage de programmation (e.g. Python)  
+http://rosettacode.org/wiki/Category:Programming_Languages -> http://rosettacode.org/wiki/Category:Python
+
+Voir aussi les langages exotiques ou academiques:  https://esolangs.org/wiki/Language_list et un bon example est https://github.com/lhartikk/ArnoldC
+
+
 ----
 
 http://ariya.ofilabs.com/2011/08/math-evaluator-in-javascript-part-2.html
