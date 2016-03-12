@@ -39,6 +39,8 @@ Voir aussi les langages exotiques ou academiques:  https://esolangs.org/wiki/Lan
 
 ----
 
+https://scratch.mit.edu/projects/editor/?tip_bar=home  
+
 http://ariya.ofilabs.com/2011/08/math-evaluator-in-javascript-part-2.html
 
 http://tapdigit.googlecode.com/git/demo.htm
@@ -116,7 +118,7 @@ https://www.youtube.com/watch?v=GutFwGmajHA
 
 https://www.youtube.com/watch?v=GwsU2LPs85U
 
-Le canal **Computerphile** en Anglais.
+Le canal **Computerphile** https://www.youtube.com/user/Computerphile , en Anglais.
 
 
 
