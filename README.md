@@ -2,6 +2,7 @@ ALF
 ===
 
 Automates et Langages Formels
+----
 
 Liens:
 
@@ -9,7 +10,7 @@ https://javacc.java.net/
 
 http://www.antlr.org/download.html
 
-http://zaach.github.io/jison/docs/
+http://zaach.github.io/jison/docs/ --> http://zaa.ch/jison/demos/calc/
 
 http://goldparser.org/index.htm
 
@@ -23,11 +24,6 @@ http://pegjs.majda.cz/
 
 https://www.khanacademy.org/computer-programming/game-of-life/879123336
 
-https://www.khanacademy.org/computer-programming/turing-machine/938201372
-
-http://www.google.com/doodles/alan-turings-100th-birthday
-
-
 Vous pouvez trouver plusieurs alogorithmes implementes en plusieurs langages de programmation pour faire la compraison:
 
 http://rosettacode.org/wiki/Rosetta_Code -> http://rosettacode.org/wiki/Category:Programming_Tasks -> http://rosettacode.org/wiki/Priority_queue  
@@ -36,7 +32,35 @@ http://rosettacode.org/wiki/Category:Programming_Languages -> http://rosettacode
 
 Voir aussi les langages exotiques ou academiques:  https://esolangs.org/wiki/Language_list et un bon example est https://github.com/lhartikk/ArnoldC
 
+http://hackingoff.com/compilers/ll-1-parser-generator
 
+http://jointjs.com/demos/javascript-ast
+
+http://www.bayfronttechnologies.com/mc_tutorial.html
+
+http://gnosis.cx/TPiP/ [**Python**]
+
+https://en.wikipedia.org/wiki/Compilers%3A_Principles,_Techniques,_and_Tools (Jedi Masters only)
+
+
+Turing Machine
+====
+
+http://morphett.info/turing/turing.html
+
+https://www.khanacademy.org/computer-programming/turing-machine/938201372
+
+http://www.google.com/doodles/alan-turings-100th-birthday
+
+https://turingmachinesimulator.com/
+
+http://www.turing.org.uk/book/update/tmjavar.html
+
+http://www.rendell-attic.org/gol/TMapplet/
+
+http://www.mijagourlay.com/turingmachine
+
+Liens divers - a etudier
 ----
 
 https://scratch.mit.edu/projects/editor/?tip_bar=home  
@@ -63,7 +87,7 @@ http://www.dangermouse.net/esoteric/ook.html
 
 ----
 
-TD et Cours - autres universites
+TD et Cours - autres Universites
 ====
 
 http://www.discmath.ulg.ac.be/cours/main_autom.pdf
