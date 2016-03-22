@@ -42,6 +42,45 @@ http://gnosis.cx/TPiP/ [**Python**]
 
 https://en.wikipedia.org/wiki/Compilers%3A_Principles,_Techniques,_and_Tools (Jedi Masters only)
 
+https://en.wikipedia.org/wiki/List_of_compilers
+
+https://en.wikipedia.org/wiki/Comparison_of_assemblers
+
+https://en.wikipedia.org/wiki/Comparison_of_parser_generators
+
+https://en.wikipedia.org/wiki/Parsing_expression_grammar
+
+https://en.wikipedia.org/wiki/Regular_expression
+
+https://en.wikipedia.org/wiki/Comparison_of_regular_expression_engines
+
+https://en.wikipedia.org/wiki/Lexical_analysis#List_of_lexer_generators
+
+https://en.wikipedia.org/wiki/Ragel
+
+https://en.wikipedia.org/wiki/Finite-state_machine
+
+https://en.wikipedia.org/wiki/Compiler-compiler
+
+https://en.wikipedia.org/wiki/Metacompiler
+
+https://en.wikipedia.org/wiki/LR_parser
+
+https://en.wikipedia.org/wiki/LALR_parser
+
+https://en.wikipedia.org/wiki/LL_parser
+
+https://en.wikipedia.org/wiki/Infix_notation
+
+https://en.wikipedia.org/wiki/Polish_notation
+
+https://en.wikipedia.org/wiki/Reverse_Polish_notation
+
+https://en.wikipedia.org/wiki/Binary_expression_tree
+
+http://www.cs.man.ac.uk/~pjj/cs212/fix.html
+
+
 
 Turing Machine
 ====
