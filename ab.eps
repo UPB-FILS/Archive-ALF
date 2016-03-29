@@ -1,0 +1,120 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%BoundingBox: 5 5 400 600
+%%LanguageLevel: 2
+
+%This is an attempt to produce an 2D tile
+%based on empty square, filled square,
+%a square filled with a quarter of a circle
+%and a square filled with the complement of a
+%square of a circle
+%The tiles may be rotated with 90 degres
+
+/s1{
+  0 0 5 5 rectstroke
+}def
+
+/q1{
+    gsave
+     2.5 2.5 moveto
+     0 0 lineto
+     stroke
+     grestore
+}def
+
+/q2{
+  gsave
+   2.5 2.5 moveto
+   5 0 lineto
+   stroke
+   grestore
+}def
+
+/q3{
+  gsave
+   2.5 2.5 moveto
+   0 5 lineto
+   stroke
+   grestore
+}def
+
+/q4{
+  gsave
+   2.5 2.5 moveto
+   5 5 lineto
+   stroke
+   grestore
+}def
+
+/q1N{
+  gsave
+   2.5 2.5 moveto
+   2.5 0 lineto
+   stroke
+   grestore
+}def
+
+/q2N{
+  gsave
+   2.5 2.5 moveto
+   2.5 5 lineto
+   stroke
+   grestore
+}def
+
+/q3N{
+  gsave
+   2.5 2.5 moveto
+   5 2.5 lineto
+   stroke
+   grestore
+}def
+
+/q4N{
+  gsave
+   2.5 2.5 moveto
+   0 2.5 lineto
+   stroke
+   grestore
+}def
+
+/sym [  //q1 //q1N //q2  //q2N  //q3 //q4 //q3N //q4N //s1 ] def
+/range sym length def
+/rNum {rand range mod} def
+
+/drawsym {
+    /k exch def
+    sym k get exec
+    k 1 8{
+        /j exch def
+        sym j get exec
+    }for
+}def
+
+%Initial setup
+5 5 scale
+0 setlinewidth
+2 2 translate
+
+%Start drawing
+
+%horizontal boxes >> 15
+%veritcal boxes >> 22
+
+23 {
+
+  0 1 14 {
+    % select a random symbol to be drawn
+    % /i exch def
+    % i drawsym
+	rNum drawsym
+    s1
+    5 0 translate
+  } for
+
+  %go up one row
+  -75 5 translate
+} repeat
+
+
+showpage
+%%EOF
