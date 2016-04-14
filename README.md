@@ -117,6 +117,25 @@ http://www.rendell-attic.org/gol/TMapplet/
 
 http://www.mijagourlay.com/turingmachine
 
+https://en.wikipedia.org/wiki/Busy_beaver
+
+http://demonstrations.wolfram.com/BusyBeaver/
+
+https://en.wikipedia.org/wiki/Ackermann_function
+
+https://en.wikipedia.org/wiki/Sudan_function
+
+https://en.wikipedia.org/wiki/Turmite
+
+https://en.wikipedia.org/wiki/Langton%27s_ant
+
+https://en.wikipedia.org/wiki/Paterson%27s_worms
+
+https://en.wikipedia.org/wiki/Computability_theory
+
+https://en.wikipedia.org/wiki/Transcomputational_problem
+
+
 Liens divers - a etudier
 ----
 
@@ -141,6 +160,40 @@ http://www.quirkster.com/iano/js/befunge.html
 http://web.archive.org/web/20150623025348/http://compsoc.dur.ac.uk/whitespace/
 
 http://www.dangermouse.net/esoteric/ook.html
+
+https://en.wikipedia.org/wiki/Fast-growing_hierarchy
+
+http://www.jikesrvm.org/
+
+http://sable.github.io/soot/
+
+https://www.gnu.org/software/bison/
+
+http://goldparser.org/
+
+http://www.mactech.com/articles/mactech/Vol.16/16.07/UsingFlexandBison/index.html
+
+https://github.com/sirthias/parboiled/wiki
+
+https://wiki.haskell.org/Parsec
+
+http://www.colm.net/open-source/ragel/
+
+https://en.wikipedia.org/wiki/Spirit_Parser_Framework
+
+https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_Form
+
+http://gdk.sourceforge.net/
+
+http://syntax.gforge.inria.fr/
+
+http://invisible-island.net/byacc/byacc.html
+
+http://flex.sourceforge.net/
+
+http://nlp.stanford.edu/software/lex-parser.shtml
+
+http://blogs.perl.org/users/jeffrey_kegler/2014/09/parsing-a-timeline.html
 
 ----
 
