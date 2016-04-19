@@ -40,6 +40,35 @@ http://ssw.jku.at/Coco/
 
 http://pegjs.majda.cz/
 
+http://hackingoff.com/compilers/ll-1-parser-generator; http://hackingoff.com/compilers/lr-0-parser-generator; http://hackingoff.com/compilers/slr-1-parser-generator
+
+http://www.bottlecaps.de/rex/
+
+http://dinosaur.compilertools.net/ 
+
+http://catalog.compilertools.net/lexparse.html; http://gentle.compilertools.net/; 
+
+http://zaa.ch/jison/
+
+http://java-source.net/open-source/parser-generators
+
+http://jflex.de/
+
+http://jscc.phorward-software.com/
+
+http://irony.codeplex.com/ - .NET approach. Directly in C#
+
+http://syntax.gforge.inria.fr/
+
+https://pypi.python.org/pypi/grako/
+
+http://labraj.feri.um.si/lisa/
+
+http://accent.compilertools.net/
+
+http://www.semanticdesigns.com/Products/DMS/DMSToolkit.html
+
+
 https://www.khanacademy.org/computer-programming/game-of-life/879123336
 
 Vous pouvez trouver plusieurs alogorithmes implementes en plusieurs langages de programmation pour faire la compraison:
