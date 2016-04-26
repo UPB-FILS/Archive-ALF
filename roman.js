@@ -24,7 +24,7 @@ var Roman = {
 var test_data = ['MCMXC', 'MDCLXVI', 'MMVIII']
 for (var i=0; i<test_data.length; ++i) {
   var test_datum = test_data[i]
-  print(test_datum + ": " + Roman.parse(test_datum)) 
+  console.log(test_datum + ": " + Roman.parse(test_datum)) 
 }
 
 //ENCODE
