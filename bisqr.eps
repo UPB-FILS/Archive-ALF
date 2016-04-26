@@ -1,0 +1,59 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%BoundingBox: 5 5 400 600
+%%LanguageLevel: 2
+
+%This is an attempt to produce an 2D tile
+%based on 2 filled squares
+%The tile may be rotated with 90 degres
+
+
+/s1{
+  gsave
+  0 0 2.5 2.5 rectfill
+  2.5 2.5 2.5 2.5 rectfill
+  grestore
+}def
+
+/s2{
+  gsave
+  0 2.5 2.5 2.5 rectfill
+  2.5 0 2.5 2.5 rectfill
+  grestore
+}def
+
+/sym [ //s2 //s1 ] def
+/range sym length def
+/rNum {rand range mod} def
+
+/drawsym {
+    /k exch def
+    sym k get exec
+}def
+
+%Initial setup
+5 5 scale
+0 setlinewidth
+2 2 translate
+
+%Start drawing
+
+%horizontal boxes >> 15
+%veritcal boxes >> 22
+
+31 {
+
+  0 1 22 {
+    % select a random symbol to be drawn
+    % /i exch def
+    % i drawsym
+	rNum drawsym
+    5 0 translate
+  } for
+
+  %go up one row
+  -115 5 translate
+} repeat
+
+
+showpage
+%%EOF
