@@ -226,6 +226,14 @@ http://blogs.perl.org/users/jeffrey_kegler/2014/09/parsing-a-timeline.html
 
 https://spadystudios.wordpress.com/2014/05/04/these-are-a-few-of-my-favorite-things-38-designing-celtic-knots/
 
+https://www.rit.edu/news/story.php?id=49994
+
+https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQo8oTbvFS-7Q787xJHY7PvDRQvKK3P8Dvzq-aaOSDr-KR48LXT
+
+http://obsidianbutterfly.com/Articles/celtic1.html
+
+http://www.calligraphy-skills.com/how-to-draw-celtic-knots.html
+
 ----
 
 TD et Cours - autres Universites
@@ -263,13 +271,13 @@ http://www2.lifl.fr/~mailliet/Compil/TD/Exo2.pdf
 
 http://pageperso.lif.univ-mrs.fr/~frederic.olive/Materiel/langagesL2/td.pdf
 
-MIT ->  
+*MIT* ->  
 http://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2006/index.htm  
 http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-045j-automata-computability-and-complexity-spring-2011/  
 
 http://cs.fit.edu/~dmitra/FormaLang/
 
-Stanford ->  
+*Stanford* ->  
 https://www.coursera.org/course/automata
 
 ----
