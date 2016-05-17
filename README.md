@@ -224,6 +224,8 @@ http://nlp.stanford.edu/software/lex-parser.shtml
 
 http://blogs.perl.org/users/jeffrey_kegler/2014/09/parsing-a-timeline.html
 
+https://spadystudios.wordpress.com/2014/05/04/these-are-a-few-of-my-favorite-things-38-designing-celtic-knots/
+
 ----
 
 TD et Cours - autres Universites
